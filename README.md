@@ -1,2 +1,3 @@
 # lunarcom
-Placeholder repo for the lunarcom project
+
+Placeholder package. The `lunarcom` name is reserved for a future project.
